@@ -1,0 +1,4 @@
+baseURL = 'https://adamh186.github.io'
+languageCode = 'en-us'
+title = 'My Hugo Site Resume'
+theme = "anatole"

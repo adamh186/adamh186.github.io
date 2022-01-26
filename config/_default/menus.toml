@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Experience"
+  identifier = "experience"
+  weight = 100
+  url = "/experience/history"
+
+  [[main]]
+  name = "Skills"
+  weight = 200
+  identifier = "skills"
+  url = "/skills/skills"
+
+  [[main]]
+  name = "Projects"
+  weight = 300
+  identifier = "projects"
+  url = "/projects/projects"
+
+  [[main]]
+  name = "Education"
+  weight = 400
+  identifier = "education"
+  url = "/education/education"
+
+  #[[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/imprint/"
