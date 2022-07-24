@@ -12,7 +12,7 @@ tags = [
 
 **SENIOR SOLUTIONS ARCHITECT**, **FEDEX**  
 - Created a modernization plan for moving on-prem data centers to a multi-cloud environment of Azure and OCI.  
-- Lead a strategic architecture team and document Architecture Decision Reports.  
+- Lead a strategic architecture team and documented Architecture Decision Reports.  
 - Designed and oversaw a solution for moving data from on-prem to Microsoft Azure for analytics.  
 - Created a space-based architecture pattern for managing an in-memory data grid using Coherence to increase application modularity.  
 - Designed a documentation site and training program for using Hugo to better organize architecture across teams.  
