@@ -9,7 +9,7 @@ tags = [
 +++
 
 # **PROJECTS AND APPLICATIONS**  
-## **ONLINE CUSTOMER PORTAL**##
+## **ONLINE CUSTOMER PORTAL**
 Designed and implemented a micro-frontend solution using Angular and NGINX to create a customer portal in support of FedEx Custom Critical.  This portal allowed development teams to use a mono-repo approach for creating new interfaces for end users.  In addition to increasing the spped-to-market for UI development, it also better alligned the frontends with the backend microservices.  The end deliverable was created as a Progressive Web App (PWA) with fully automated CI/CD.  The Automated CI/CD pipeline included testing, code compliation and repository storage, compliance management, and code deployment to PaaS.  
 
 ## **EPHEMERAL ENVIRONMENTS**  
