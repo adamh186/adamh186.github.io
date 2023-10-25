@@ -16,7 +16,7 @@ tags = [
 - Designed and oversaw a solution for moving data from on-prem to Microsoft Azure for analytics.  
 - Created a space-based architecture pattern for managing an in-memory data grid using Coherence to increase application modularity.  
 - Designed a documentation site and training program for using Hugo to better organize architecture across teams. 
-- Worked regulary with business sponsors, vendors, and leadership teams to ensure software solutions and implementation fit the needs of the business processes.  
+- Worked regularly with business sponsors, vendors, and leadership teams to ensure software solutions and implementation fit the needs of the business processes.  
 
 ### **DECEMBER 2019 – JULY 2021**  
 **SOLUTIONS ARCHITECT, FEDEX**  
