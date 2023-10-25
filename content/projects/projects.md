@@ -9,6 +9,12 @@ tags = [
 +++
 
 # **PROJECTS AND APPLICATIONS**  
+## **ONLINE CUSTOMER PORTAL**##
+Designed and implemented a micro-frontend solution using Angular and NGINX to create a customer portal in support of FedEx Custom Critical.  This portal allowed development teams to use a mono-repo approach for creating new interfaces for end users.  In addition to increasing the spped-to-market for UI development, it also better alligned the frontends with the backend microservices.  The end deliverable was created as a Progressive Web App (PWA) with fully automated CI/CD.  The Automated CI/CD pipeline included testing, code compliation and repository storage, compliance management, and code deployment to PaaS.  
+
+## **EPHEMERAL ENVIRONMENTS**  
+Used IaaS as code to provision and deploy application to temporary environments.  The short lived environments cut the IT chargeback cost of the impacted companies from 15-33%.  VMs were provisioned using Terraform, databases were done through Jarvis, and all provisioning was handled over a CI/CD pipeline in Jenkins or GitHub Actions.
+
 ## **SPRING BOOT**  
 Created an application using Spring Boot, Gradle, and Oracle Coherence that allows several systems to centralize their data to an in-memory data grid.  This is a pivotal application for creating an event driven environment.  Not only has this allowed centralization of production data, but it has also decreased the load on the database while significantly increasing front end performance.  
 
