@@ -31,7 +31,7 @@ tags = [
 ###  
 ### **JUNE 2018 – DECEMBER 2019**  
 **PROGRAMMER ANALYST ADVISOR, FEDEX**  
-- Application lead for several mission critical systems.  This included support and monitoring using AppDynamics and VisuamVM.   
+- Application lead for several mission critical systems.  This included support and monitoring using AppDynamics and VisualVM.   
 - Worked with project sponsors to gather requirements and translate them into user stories, system requirements, and systems diagrams.  
 - Team lead for the department’s progressive web applications and for migrating legacy systems to cloud capable technologies.  
 - Applications lead for migrating our local data center and backup data center to a hybrid cloud model.  
@@ -40,7 +40,7 @@ tags = [
 ### **JUNE 2016 – JUNE 2018**  
 **SENIOR PROGRAMMER ANALYST, FEDEX**  
 - Develop applications and services using Java, Struts 2, and Angular.  
-- Mentor other developers using teaching tools like shared programming and info sharing sessions.  
+- Mentor other developers using teaching tools like shared programming and information sharing sessions.  
 
 ### **JUNE 2013 – JUNE 2016**  
 **PROGRAMMER ANALYST, FEDEX**  
