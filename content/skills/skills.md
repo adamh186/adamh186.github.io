@@ -9,7 +9,7 @@ Technical skills and experience
  - Spring Boot  
  - Oracle Cloud Infrastructure (OCI)  
  - Azure Cloud (ADF, PowerBI, Synapse, ADLS, SHIR)  
- - Angular 7.0+  
+ - Angular 19+  
  - Agile Project Management  
  - Git  
  - Kotlin  
@@ -22,3 +22,4 @@ Technical skills and experience
  - Coherence  
  - Jenkins and CloudBees  
  - Redis  
+ - GitHub Actions
